@@ -1,7 +1,6 @@
 use crate::test::MyTest;
 use std::option::Option::Some;
 use std::ops::{Deref, DerefMut};
-use std::cell::RefCell;
 
 pub struct Solution;
 
