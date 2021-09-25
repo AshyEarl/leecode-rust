@@ -1,6 +1,7 @@
 use crate::test::MyTest;
 pub struct Solution;
 
+// https://leetcode.com/problems/two-sum/
 impl MyTest for Solution {
     fn test(&self) {
         let nums = vec![2, 7, 11, 15];
